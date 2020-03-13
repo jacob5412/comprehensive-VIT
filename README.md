@@ -34,3 +34,7 @@ BPI
 6. Enable **Developer mode** on the top right corner. A new toolbar will appear below it.
 7. Select the **Load unpacked** option on the top left. Select the uncompressed CrackIt folder you downloaded.
 8. A CrackIt extension with the available pdfs will appear in your extension menu.
+
+## Disclaimer
+
+For educational purposes only. E-mail [kapsjacob@gmail.com](mailto:kapsjacob@gmail.com)
