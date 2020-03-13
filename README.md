@@ -26,7 +26,7 @@ BPI
 * Credits: [khelobachoo](https://github.com/khelobachoo/CrackIt.git)
 
 ## Instructions - customizing the pdfs
-1. Download the Crackit.zip from [here]()
+1. Download the Crackit.zip from [here](CrackIt.zip)
 2. Uncompress it
 3. Within the extracted folder, go to `web > pdf`.
 4. Place your pdfs here but **rename** them as PDF1, PDF2, PDF3, PDF4, PDF5. (Note: only support for 5 available)
