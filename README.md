@@ -37,4 +37,4 @@ BPI
 
 ## Disclaimer
 
-For educational purposes only. E-mail [kapsjacob@gmail.com](mailto:kapsjacob@gmail.com)
+For educational purposes only. E-mail [kapsjacob@gmail.com](mailto:kapsjacob@gmail.com) for adding more question banks.
