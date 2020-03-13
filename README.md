@@ -1,6 +1,8 @@
 # Comprehensive Exam Question Banks (VIT)
 
-Compilation of all question banks for Vellore Institute of Technology.
+* Compilation of all question banks for Vellore Institute of Technology.
+* Crowd sourced from various collaborators.
+* Please suggest edits.
 
 ## Branches Available
 ```
@@ -24,6 +26,7 @@ BPI
 
 * [Link (Chrome webstore)](https://chrome.google.com/webstore/detail/crackit/pciphakmfhmgceiplhfigpmkkgdmggpp?hl=en)
 * Credits: [khelobachoo](https://github.com/khelobachoo/CrackIt.git)
+* **Note** Would recommend against relying solely on the extension. Go through the main pdf at least once.
 
 ## Instructions - customizing the pdfs
 1. Download the CrackIt.zip from [here](CrackIt.zip)
@@ -37,4 +40,5 @@ BPI
 
 ## Disclaimer
 
-For educational purposes only. E-mail [kapsjacob@gmail.com](mailto:kapsjacob@gmail.com) for adding more question banks.
+* For educational purposes only.
+* E-mail [kapsjacob@gmail.com](mailto:kapsjacob@gmail.com) for adding more question banks.
