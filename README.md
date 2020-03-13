@@ -22,7 +22,7 @@ BPI
 
 ## The Extension
 
-* [Link](https://chrome.google.com/webstore/detail/crackit/pciphakmfhmgceiplhfigpmkkgdmggpp?hl=en)
+* [Link (Chrome webstore)](https://chrome.google.com/webstore/detail/crackit/pciphakmfhmgceiplhfigpmkkgdmggpp?hl=en)
 * Credits: [khelobachoo](https://github.com/khelobachoo/CrackIt.git)
 
-### Instructions
+### Instructions - customizing the pdfs
