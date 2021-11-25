@@ -26,4 +26,4 @@ BPI
 
 * For educational purposes only.
 * E-mail [kapsjacob@gmail.com](mailto:kapsjacob@gmail.com) for adding more question banks.
-* jacobjohn2016/comprehensive-VIT is licensed under the Creative Commons Zero v1.0 Universal
+* jacob5412/comprehensive-VIT is licensed under the Creative Commons Zero v1.0 Universal
